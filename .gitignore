@@ -1,3 +1,15 @@
+# Custom
+data/
+GradCache/
+tevatron/
+preprocessed/
+encoded/
+indexed/
+retrieved/
+checkpoints/
+logs/
+.idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
